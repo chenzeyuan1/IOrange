@@ -1,0 +1,6 @@
+let A B C D;
+let F = A | B & C;
+simplify(F);
+simulate(F);
+
+
